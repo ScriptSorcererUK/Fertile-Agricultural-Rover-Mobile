@@ -21,6 +21,11 @@ Instructions (Build Guide)
 TBA
 
 
+3D Models
+=========
+https://www.thingiverse.com/thing:6988876
+
+
 Source Code
 ===========
 Final Python Program - https://github.com/SANGERA2/Fertile-Agricultural-Rover-Mobile/blob/main/home/pi/final.py
