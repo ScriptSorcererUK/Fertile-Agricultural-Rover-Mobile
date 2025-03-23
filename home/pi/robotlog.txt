@@ -1,0 +1,31 @@
+Moving forwards
+Latitude: 51.00911583333333
+Longitude: -0.9286825000000001
+386.98 Lux
+temp: 20.52 moisture: 349
+Moving forwards
+Latitude: 51.00911583333333
+Longitude: -0.9286825000000001
+382.72 Lux
+temp: 20.66 moisture: 349
+Moving forwards
+Latitude: 51.009107166666666
+Longitude: -0.9286821666666667
+126.29 Lux
+temp: 20.71 moisture: 462
+Moving forwards
+Latitude: 51.009107166666666
+Longitude: -0.9286821666666667
+52.12 Lux
+temp: 20.66 moisture: 683
+Moving forwards
+Latitude: 51.009107166666666
+Longitude: -0.9286821666666667
+54.28 Lux
+temp: 21.25 moisture: 692
+Turning right
+Moving forwards
+Latitude: 51.0091005
+Longitude: -0.9286791666666667
+55.19 Lux
+temp: 24.88 moisture: 728
