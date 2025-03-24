@@ -8,7 +8,7 @@ TBA
 
 Video Proof of it Working
 =========================
-TBA
+https://youtu.be/BPcXoPKSPxk
 
 
 Software and Hardware
