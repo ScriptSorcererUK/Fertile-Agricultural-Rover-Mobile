@@ -3,7 +3,7 @@
 
 Project Summary
 ===============
-TBA
+https://github.com/SANGERA2/Fertile-Agricultural-Rover-Mobile/blob/main/Introduction.docx
 
 
 Video Proof of it Working
@@ -13,12 +13,12 @@ https://youtu.be/BPcXoPKSPxk
 
 Software and Hardware
 =====================
-TBA
+https://github.com/SANGERA2/Fertile-Agricultural-Rover-Mobile/blob/main/software%20and%20shopping%20list.xlsx
 
 
 Instructions (Build Guide)
 ==========================
-TBA
+https://github.com/SANGERA2/Fertile-Agricultural-Rover-Mobile/blob/main/Build%20Guide.docx
 
 
 3D Models
